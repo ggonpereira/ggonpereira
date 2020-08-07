@@ -1,8 +1,8 @@
-### Hi there, I'm Gabriel Pereira - aka zSirbull 👋
+### Hi there, I'm Gabriel Pereira - aka zSirBull 👋
 
-## I'm a Student, Dreamer and a Future Developer!
+## I'm a student, dreamer and a future developer!
 - 🔭 I’m currently studying "Técnico em Informática", in the ETEC Frei Arnaldo Maria de Itaporanga (Votuporanga - SP, Brazil)!
-- 🌱 I’m currently learning Front-End
+- 🌱 I’m currently learning Front-End development
 - 👯 I’m looking to develop more projects by myself and learn new things
 - 🥅 2020 Goals: Become a good developer in my stack (or at least a developer with good notion of programming 🤣)
 - ⚡ Fun fact: I love to play games, watch tv series and movies
