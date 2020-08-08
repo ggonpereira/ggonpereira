@@ -1,6 +1,7 @@
-### Hi there, I'm Gabriel Pereira - aka zSirBull 👋
+<h1 align="center">Hi there 👋, I'm Gabriel Pereira - aka zSirBull</h1>
+<h3 align="center">I'm a student, dreamer and a future developer!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ggonpereira" alt="ggonpereira" /> </p>
 
-## I'm a student, dreamer and a future developer!
 - 🔭 I’m currently studying "Técnico em Informática", in ETEC Frei Arnaldo Maria de Itaporanga (Votuporanga - SP, Brazil)!
 - 🌱 I’m currently learning Front-End development
 - 👯 I’m looking to develop more projects by myself and learn new things
