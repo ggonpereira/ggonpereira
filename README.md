@@ -8,7 +8,7 @@
 - 🥅 My goals: Become a good developer in my stack, work with programming and open my own company
 - ⚡ Fun fact: I love to play games, watch TV-series and movies
 
-<h3 align="center">You can find me here</h3>
+<h3>You can find me here</h3>
 
 [<img align="left" alt="ggonpereira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ggonpereira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -17,7 +17,7 @@
 
 <br />
 
-<h3 align="center">Languages and tools</h3>
+<h3>Languages and tools</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
