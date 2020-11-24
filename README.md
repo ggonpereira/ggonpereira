@@ -1,5 +1,7 @@
 <h1 align="center">Hello everyone 👋</h1>
 <h4 align="center">I'm currently studying Front-end development and CyberSecurity.</h4>
+<h5 align="center">I've 17 years old, concluding the "Técnico de Informática" course in the "ETEC Frei Arnaldo Maria de Itaporanga, Votuporanga - SP" institution.</h5>
+<h5 align="center">I'm passionate to create new things and see the code I write getting "life". I hope find a opportunity to work with other programmers and learn more and more everyday!</h5>
 
 <p align="center">
   <a href="mailto:ggonpereira@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="G-mail" /> </a>
