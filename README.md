@@ -54,7 +54,14 @@
       height="40"
     />
   </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://styled-components.com/" target="_blank">
+    <img
+      src="https://i.imgur.com/iSIVmpi.png"
+      alt="styled components"
+      height="40"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
       alt="css3"
