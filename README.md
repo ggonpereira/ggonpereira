@@ -1,13 +1,10 @@
 <h1 align="center">Hello everyone 👋</h1>
 <h4 align="center">Jr. Front-end Developer and Cryptocurrencies enthusiast.</h4>
 <h5 align="center">
-  I'm 18 years old, recently I've concluded the "Técnico de Informática" course
-  in the "ETEC Frei Arnaldo Maria de Itaporanga, Votuporanga - SP"
+  I'm 19 years old, graduated in the "Técnico de Informática" course in "ETEC Frei Arnaldo Maria de Itaporanga, Votuporanga - SP" technical school
 </h5>
 <h5 align="center">
-  I'm passionate to create new things and see the code I write getting "life". I
-  hope find a opportunity to work with other programmers and learn more and more
-  everyday!
+  I'm passionate to create new things and see the code I write getting "life". I love to study about technology and specially development and also to contribute in the community, my team or help a random person with something I've wrote!
 </h5>
 
 <p align="center">
@@ -111,6 +108,17 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://jestjs.io/"
+    target="_blank"
+  >
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+      alt="jest"
       width="40"
       height="40"
     />
