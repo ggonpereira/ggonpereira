@@ -153,7 +153,7 @@
   <img
     height="180em"
     alt="Gabriel Pereira's github stats"
-    src="https://github-readme-stats.vercel.app/api?username=ggonpereira&count_private=true&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api?username=ggonpereira&count_private=true&theme=dracula?hide=issues,contribs"
   />
   <img
     height="180em"
