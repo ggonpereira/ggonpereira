@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone 👋</h1>
-<h4 align="center">Jr. Front-end Developer and Cryptocurrencies enthusiast.</h4>
+<h4 align="center">Frontend Engineer and Cryptocurrencies enthusiast.</h4>
 <h5 align="center">
   I'm 19 years old, graduated in the "Técnico de Informática" course in "ETEC Frei Arnaldo Maria de Itaporanga, Votuporanga - SP" technical school
 </h5>
