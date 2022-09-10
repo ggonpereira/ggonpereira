@@ -73,12 +73,12 @@
 
 <p align="center">
   <img
-    height="180em"
+    height="160em"
     alt="Gabriel Pereira's github stats"
     src="https://github-readme-stats.vercel.app/api?username=ggonpereira&count_private=true&theme=dracula&hide=issues,contribs"
   />
   <img
-    height="180em"
+    height="160em"
     alt="Top Langs"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggonpereira&layout=compact&langs_count=8&theme=dracula"
   />
