@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone 👋</h1>
 <h4 align="center">Frontend Engineer and Cryptocurrencies enthusiast.</h4>
 <h5 align="center">
-  I'm 19 years old, graduated in the "Técnico de Informática" course in "ETEC Frei Arnaldo Maria de Itaporanga, Votuporanga - SP" technical school
+  I'm 20 years old, graduated in the "Técnico de Informática" course in "ETEC Frei Arnaldo Maria de Itaporanga, Votuporanga - SP" technical school
 </h5>
 <h5 align="center">
   I'm passionate to create new things and see the code I write getting "life". I love to study about technology and specially development and also to contribute in the community, my team or help a random person with something I've wrote!
