@@ -56,6 +56,9 @@
     <a href="https://www.w3.org/html/" target="_blank">
         <img height="35" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </a>
+    <a href="https://nodejs.org/" target="_blank">
+        <img height="35" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=">
+    </a>
     <a href="https://sass-lang.com/" target="_blank">
         <img height="35" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     </a>
