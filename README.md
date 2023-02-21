@@ -32,8 +32,17 @@
     <a href="https://getbootstrap.com" target="_blank">
         <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="35" />
     </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+        <img height="35" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=">
+    </a>
+    <a href="https://storybook.js.org/" target="_blank">
+        <img height="35" src="https://img.shields.io/static/v1?style=for-the-badge&message=Storybook&color=FF4785&logo=Storybook&logoColor=FFFFFF&label=">
+    </a>
     <a href="https://pt-br.reactjs.org/" target="_blank">
-        <img height="35" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+        <img height="35" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=">
+    </a>
+    <a href="https://react-hook-form.com/" target="_blank">
+        <img height="35" src="https://img.shields.io/static/v1?style=for-the-badge&message=React+Hook+Form&color=EC5990&logo=React+Hook+Form&logoColor=FFFFFF&label=">
     </a>
     <a href="https://styled-components.com/" target="_blank">
         <img height="35" src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
