@@ -4,7 +4,7 @@
   I'm 20 years old, graduated in the "Técnico de Informática" course in "ETEC Frei Arnaldo Maria de Itaporanga, Votuporanga - SP" technical school
 </h5>
 <h5 align="center">
-  I'm passionate to create new things and see the code I write getting "life". I love to study about technology and specially development and also to contribute in the community, my team or help a random person with something I've wrote!
+  I'm passionate about creating new things and seeing my code getting "to life". I love to study about technology and especially development and also to contribute to the community, my team, or help a random person with something I've written!
 </h5>
 
 <p align="center">
