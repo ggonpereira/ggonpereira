@@ -1,10 +1,13 @@
 <h1 align="center">Hello everyone 👋</h1>
 <h4 align="center">Frontend Engineer and Cryptocurrencies enthusiast.</h4>
 <h5 align="center">
-  I'm 20 years old, graduated in the "Técnico de Informática" course in "ETEC Frei Arnaldo Maria de Itaporanga, Votuporanga - SP" technical school
+  I'm 21 years old, graduated in the "Técnico de Informática" course in "ETEC Frei Arnaldo Maria de Itaporanga, Votuporanga - SP" technical school
 </h5>
 <h5 align="center">
   I'm passionate about creating new things and seeing my code getting "to life". I love to study about technology and especially development and also to contribute to the community, my team, or help a random person with something I've written!
+</h5>
+<h5 align="center">
+  Currently working as a Frontend Engineer for <a href="https://flatirons.com/" target="_blank">Flatirons</a>, with React stack and some contact with Rails.
 </h5>
 
 <p align="center">
